@@ -1,0 +1,3 @@
+ //handlesubmit ek event hai  jitni bhi input feilds waha doge to register use karemge to unka aapko state manage karne ki zaaroort nhi hai wha se vo apne aap value pick karega handleSubmite karte hi vo saree values lelega
+ //...register ... ye zaroori hai kuki kisi or input me aap register ko use kroge to har baar ye value input ki override kar dega ...rgister ko spread karna padta hai ye zaroori syntax hai
+ // jab bhi form submit hoga waha pe handleSubmit hi hoga handle submit ek method hai jaha pe aap apna method doge ki me is tarah se form handle karunga
